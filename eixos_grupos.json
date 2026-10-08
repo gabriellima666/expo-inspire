@@ -1,0 +1,41 @@
+[
+  {
+    "id": "eixo-sust",
+    "description": "Iniciativas voltadas à preservação ambiental, saúde pública e desenvolvimento comunitário.",
+    "groups": [
+      {
+        "code": "GRUPO 201",
+        "id": "g201",
+        "name": "ReciclaMais - Plataforma de Logística Reversa"
+      },
+      {
+        "code": "GRUPO 202",
+        "id": "g202",
+        "name": "AquaPura - Filtro Portátil de Baixo Custo"
+      },
+      {
+        "code": "GRUPO 203",
+        "id": "g203",
+        "name": "HortaUrbana - Irrigação Automatizada e Comunitária"
+      }
+    ],
+    "name": "Sustentabilidade e Impacto Social"
+  },
+  {
+    "id": "eixo-emocional",
+    "description": "Estudos sobre relacionamento interpessoal, saúde mental e inteligência socioemocional.",
+    "groups": [
+      {
+        "code": "GRUPO 301",
+        "id": "g301",
+        "name": "De que maneira a falta de comunicação entre pais e filhos adolescentes gera o afastamento familiar e como isso pode ser minimizado?"
+      },
+      {
+        "id": "g6252",
+        "code": "GRUPO 102",
+        "name": "GRUPO TESTE JSON"
+      }
+    ],
+    "name": "Inteligência Emocional"
+  }
+]

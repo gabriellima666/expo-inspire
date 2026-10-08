@@ -1,0 +1,47 @@
+[
+  {
+    "id": "eval_1791486617664_ojtl",
+    "timestamp": "2026-10-08T19:10:17.664Z",
+    "evaluatorName": "Gabriel Sousa",
+    "axisId": "eixo-tec",
+    "axisName": "Tecnologia, Inovação e Robótica",
+    "groupEvaluations": {
+      "g101": {
+        "groupCode": "GRUPO 101",
+        "groupName": "EcoTech - Sensores Solares para Cidades Inteligentes",
+        "rubric": {
+          "comunicacao": "Excelente",
+          "dominio": "Excelente",
+          "semiotica": "Excelente",
+          "postura": "Excelente"
+        },
+        "observation": ""
+      },
+      "g102": {
+        "groupCode": "GRUPO 102",
+        "groupName": "RobotLab - Braço Robótico Assistivo de Baixo Custo",
+        "rubric": {
+          "comunicacao": "Excelente",
+          "dominio": "Excelente",
+          "semiotica": "Excelente",
+          "postura": "Excelente"
+        },
+        "observation": ""
+      },
+      "g103": {
+        "groupCode": "GRUPO 103",
+        "groupName": "AI Vision - Sistema Inteligente de Triagem de Resíduos",
+        "rubric": {
+          "comunicacao": "Excelente",
+          "dominio": "Excelente",
+          "semiotica": "Excelente",
+          "postura": "Excelente"
+        },
+        "observation": ""
+      }
+    },
+    "overallRating": 5,
+    "highlightGroupId": "g101",
+    "highlightGroupName": "GRUPO 101 - EcoTech - Sensores Solares para Cidades Inteligentes"
+  }
+]
